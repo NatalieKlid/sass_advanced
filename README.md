@@ -78,3 +78,6 @@ h1 {
     @include headingSize(medium); // result: font-size: 40px;
 }
 ```
+
+## Certificate for the course:
+![Certificate](images/UC-5d1dc8c6-1918-4591-83f3-a3a826023ad4.jpg)
