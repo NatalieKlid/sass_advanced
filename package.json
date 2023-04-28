@@ -1,0 +1,23 @@
+{
+  "name": "sass_advanced",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "node-sass --output-style compressed -o css scss/main.scss",
+    "cw": "node-sass --output-style compressed -o css scss -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NatalieKlid/sass_advanced.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NatalieKlid/sass_advanced/issues"
+  },
+  "homepage": "https://github.com/NatalieKlid/sass_advanced#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
