@@ -1,5 +1,7 @@
 # sass_advanced
 
+[Project 2 page](https://natalieklid.github.io/sass_advanced/)
+
 ## Map data type in SCSS
 
 ```
